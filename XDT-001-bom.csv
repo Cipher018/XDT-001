@@ -1,0 +1,13 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"20 90° Degrees pin socket pack","Interconnection headers for module mounting and replacement on the PCB. (Already owned)",1,0.30,"","Local Hardware Store"
+"40 pin socket pack","Interconnection headers for module mounting and replacement on the PCB. (Already Owned)",1,0.60,"","Local Hardware store"
+"M4x8 Screw","Metric machine screws (M3/M4), zinc plated steel, for mechanical fastening and structural joining (Already owned)",6,0.48,"","Local Hardware Store"
+"M3x8 Screw","Metric machine screws (M3/M4), zinc plated steel, for mechanical fastening and structural joining (Already owned)",4,0.32,"","Local hardware store"
+"Electrolitic capacitor 100uf","Voltage stabilization on the ESP32 and NRF24L01 power rails. (Already Owned)",5,1.10,"","Local Hardware Store"
+"Ceramic capacitor 100nf SMD","Local decoupling on the power supply lines of all modules. (already owned)",5,0.35,"","Local hardware store"
+"Cherry MX Switches","Keyboard-type switches that allow for more ergonomic navigation on the touchscreen",1,5.25,"https://es.aliexpress.com/item/4000100166477.html","Aliexpress"
+"MP1584 EN 3V3 STEP DOWN MODULE","The voltage regulator, set to 3.3V, allows powering the variety of devices present.",1,0.93,"https://es.aliexpress.com/item/1005007510639297.html","Aliexpress"
+"TP4056 Type C charge module","Charging module that allows charging the battery from a USB-C port",1,0.97,"https://es.aliexpress.com/item/1005005522998695.html","Aliexpress"
+"BMS 1S","Manage the current and protect the LiPo battery from over-discharge or overcharging",1,2.37,"https://es.aliexpress.com/item/1005010463014639.html","Aliexpress"
+"ESP32","Development and control board for managing communication and data link using the communication protocol",1,4.84,"https://es.aliexpress.com/item/1005001838731651.html","Aliexpress"
+"nrf24l01","Radio frequency module that will allow communication between different devices from the terminal, with its respective corresponding extension antenna",3,7.38,"https://es.aliexpress.com/item/1005008981453047.html","Aliexpress"
